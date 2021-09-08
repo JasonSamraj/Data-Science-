@@ -1,1 +1,1 @@
-# L-T-Vehicle-Loan-Deafult-Prediction
+# Data science projects
